@@ -2,7 +2,7 @@
 
 <a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark-header.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.png">
     <source media="(prefers-color-scheme: light)" srcset="./light-header.svg" />
     <img alt="Kaveendra Yapaarachchi | Freelancer · Full Stack Developer 🎨" src="./header.svg" width="100%" />
   </picture>
