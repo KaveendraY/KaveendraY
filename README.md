@@ -8,22 +8,13 @@
   </picture>
 </a>
 
-<header>
-  <div align="center">
-    <a href="">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=riyajathahamed.tech&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
-    </a>
-  </div>
-  <br/>
-</header>
+
 
 &nbsp;<div align="center" >
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/559018268090695692) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riyajathahamed12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamedriyajath) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://riyajatha.medium.com/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ARiyajath)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([(https://www.facebook.com/pasindu.kaveendra.1)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveendra-yapaarachchi-7b9a951a3/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pasindukaveendra123) 
 </div>
 
-&nbsp;<div align="center" style="display:inline; height:20px">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&cover_image=true&theme=novatorem&show_offline=false&background_color=1d1e3a&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tzfhzppcgybhfyb8kuhp1z261&redirect=true)
-</div>
+
 
 <details>
   <summary><h2>Techs and Stats</h2></summary>
@@ -32,14 +23,5 @@
 
 
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=riyajath-ahamed&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=riyajath-ahamed&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyajath-ahamed&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=riyajath-ahamed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </details>
